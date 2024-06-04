@@ -1,0 +1,94 @@
+object fMain: TfMain
+  Left = 1400
+  Height = 261
+  Top = 79
+  Width = 425
+  Caption = 'Примеры работы с подпрограммами'
+  ClientHeight = 261
+  ClientWidth = 425
+  LCLVersion = '2.0.12.0'
+  object Label1: TLabel
+    Left = 40
+    Height = 22
+    Top = 17
+    Width = 193
+    Caption = 'Введите любое число:'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Color = clBlack
+    Font.Height = -19
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Edit1: TEdit
+    Left = 256
+    Height = 23
+    Top = 17
+    Width = 128
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 16
+    Height = 33
+    Top = 48
+    Width = 139
+    Caption = 'Пример удвоения №1'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 16
+    Height = 32
+    Top = 88
+    Width = 139
+    Caption = 'Пример удовения №2'
+    OnClick = Button2Click
+    TabOrder = 2
+  end
+  object Button3: TButton
+    Left = 16
+    Height = 25
+    Top = 128
+    Width = 141
+    Caption = 'Пример удвоения №3'
+    OnClick = Button3Click
+    TabOrder = 3
+  end
+  object Button4: TButton
+    Left = 16
+    Height = 25
+    Top = 160
+    Width = 141
+    Caption = 'Пример удвоения №4'
+    OnClick = Button4Click
+    TabOrder = 4
+  end
+  object Button5: TButton
+    Left = 16
+    Height = 17
+    Top = 192
+    Width = 139
+    Caption = 'Пример удвоения №5'
+    OnClick = Button5Click
+    TabOrder = 5
+  end
+  object Button6: TButton
+    Left = 16
+    Height = 25
+    Top = 224
+    Width = 75
+    Caption = 'exit'
+    OnClick = Button6Click
+    TabOrder = 6
+  end
+  object Memo1: TMemo
+    Left = 266
+    Height = 66
+    Top = 66
+    Width = 113
+    TabOrder = 7
+  end
+end

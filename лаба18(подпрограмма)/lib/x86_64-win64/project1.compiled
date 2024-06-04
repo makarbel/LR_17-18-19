@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1482330472"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq -FiC:\Users\maksi\Downloads\lr_17_18_19-main\lr_17_18_19-main\лаба18(подпрограмма)\lib\x86_64-win64 -FuD:\lazarus\lcl\units\x86_64-win64\win32 -FuD:\lazarus\lcl\units\x86_64-win64 -FuD:\lazarus\components\freetype\lib\x86_64-win64 -FuD:\lazarus\components\lazutils\lib\x86_64-win64 -FuD:\lazarus\packager\units\x86_64-win64 -FuC:\Users\maksi\Downloads\lr_17_18_19-main\lr_17_18_19-main\лаба18(подпрограмма)\ -FUC:\Users\maksi\Downloads\lr_17_18_19-main\lr_17_18_19-main\лаба18(подпрограмма)\lib\x86_64-win64\ -FEC:\Users\maksi\Downloads\lr_17_18_19-main\lr_17_18_19-main\лаба18(подпрограмма)\ -oC:\Users\maksi\Downloads\lr_17_18_19-main\lr_17_18_19-main\лаба18(подпрограмма)\project1.exe -dLCL -dLCLwin32 project1.lpr"/>
+</CONFIG>

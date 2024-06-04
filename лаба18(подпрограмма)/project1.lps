@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="modul.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="61"/>
+        <CursorPos X="55" Y="87"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3531"/>
+        <CursorPos Y="3548"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="modul.pas"/>
+        <Caret Line="35" Column="15" TopLine="18"/>
+      </Position1>
+      <Position2>
+        <Filename Value="modul.pas"/>
+        <Caret Line="29" Column="25" TopLine="23"/>
+      </Position2>
+      <Position3>
+        <Filename Value="modul.pas"/>
+        <Caret Line="123" TopLine="97"/>
+      </Position3>
+      <Position4>
+        <Filename Value="modul.pas"/>
+        <Caret Line="130" TopLine="99"/>
+      </Position4>
+      <Position5>
+        <Filename Value="modul.pas"/>
+        <Caret Line="124" TopLine="98"/>
+      </Position5>
+      <Position6>
+        <Filename Value="modul.pas"/>
+        <Caret Line="8" Column="27"/>
+      </Position6>
+      <Position7>
+        <Filename Value="modul.pas"/>
+        <Caret Line="123" TopLine="90"/>
+      </Position7>
+      <Position8>
+        <Filename Value="modul.pas"/>
+        <Caret Line="130" TopLine="97"/>
+      </Position8>
+      <Position9>
+        <Filename Value="modul.pas"/>
+        <Caret Line="112" TopLine="97"/>
+      </Position9>
+      <Position10>
+        <Filename Value="modul.pas"/>
+        <Caret Line="117" TopLine="91"/>
+      </Position10>
+      <Position11>
+        <Filename Value="modul.pas"/>
+        <Caret Line="110" Column="10" TopLine="91"/>
+      </Position11>
+      <Position12>
+        <Filename Value="modul.pas"/>
+        <Caret Line="28" Column="45" TopLine="12"/>
+      </Position12>
+      <Position13>
+        <Filename Value="modul.pas"/>
+        <Caret Line="54" Column="13" TopLine="44"/>
+      </Position13>
+      <Position14>
+        <Filename Value="modul.pas"/>
+        <Caret Line="59" Column="21" TopLine="37"/>
+      </Position14>
+      <Position15>
+        <Filename Value="modul.pas"/>
+        <Caret Line="144" TopLine="111"/>
+      </Position15>
+      <Position16>
+        <Filename Value="modul.pas"/>
+        <Caret Line="143" TopLine="110"/>
+      </Position16>
+      <Position17>
+        <Filename Value="modul.pas"/>
+        <Caret Line="54" TopLine="31"/>
+      </Position17>
+      <Position18>
+        <Filename Value="modul.pas"/>
+        <Caret Line="56" Column="11" TopLine="29"/>
+      </Position18>
+      <Position19>
+        <Filename Value="modul.pas"/>
+        <Caret Line="54" Column="3" TopLine="37"/>
+      </Position19>
+      <Position20>
+        <Filename Value="modul.pas"/>
+        <Caret Line="50" Column="37" TopLine="37"/>
+      </Position20>
+      <Position21>
+        <Filename Value="modul.pas"/>
+        <Caret Line="49" Column="37" TopLine="8"/>
+      </Position21>
+      <Position22>
+        <Filename Value="modul.pas"/>
+        <Caret Line="54" Column="13" TopLine="45"/>
+      </Position22>
+      <Position23>
+        <Filename Value="modul.pas"/>
+        <Caret Line="60" Column="16" TopLine="37"/>
+      </Position23>
+      <Position24>
+        <Filename Value="modul.pas"/>
+        <Caret Line="70" Column="55" TopLine="29"/>
+      </Position24>
+      <Position25>
+        <Filename Value="modul.pas"/>
+        <Caret Line="69" Column="55" TopLine="36"/>
+      </Position25>
+      <Position26>
+        <Filename Value="modul.pas"/>
+        <Caret Line="38" Column="15" TopLine="21"/>
+      </Position26>
+      <Position27>
+        <Filename Value="modul.pas"/>
+        <Caret Line="52" Column="86" TopLine="37"/>
+      </Position27>
+      <Position28>
+        <Filename Value="modul.pas"/>
+        <Caret Line="44" Column="23" TopLine="30"/>
+      </Position28>
+      <Position29>
+        <Filename Value="modul.pas"/>
+        <Caret Line="53" Column="94" TopLine="30"/>
+      </Position29>
+      <Position30>
+        <Filename Value="modul.pas"/>
+        <Caret Line="108" Column="25" TopLine="85"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
